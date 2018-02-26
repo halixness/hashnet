@@ -29,7 +29,7 @@
     </head>
     
     
-    <body style="background-image: url('../img/bg.jpg');">
+    <body style="background-image: url('bg.jpg');">
         
         <!-- NavBar -->
         <div style="background-color:black;" class="navbar transparent navbar-inverse navbar-fixed-top">
