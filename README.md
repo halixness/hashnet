@@ -1,3 +1,6 @@
+# Hashnet
+
+Distributed HASH cracking and dictionary generation.
 
 ## Getting Started
 
